@@ -6,3 +6,8 @@ print(y)
 x = 10
 y = x * 7
 print(y)
+
+
+#Aryan's additional code
+x=x+y
+print(x)
